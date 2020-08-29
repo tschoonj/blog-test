@@ -117,7 +117,7 @@ After compilation with something like:
 
 and running `gtkextra-print-export`, you should get something like:
 
-![My helpful screenshot](/assets/gtkextra.png)
+![My helpful screenshot]({{ site.baseurl }}/assets/gtkextra.png)
 
 
 ## Printing the canvas
