@@ -23,12 +23,13 @@ url: "https://tschoonj.github.io" # the base hostname & protocol for your site, 
 permalink: /:year/:month/:day/:title/
 
 github_username:  tschoonj
-linkedin_user: tomschoonjans
-facebook_user: tom.schoonjans
+linkedin_username: tomschoonjans
+facebook_username: tom.schoonjans
 
 # Disqus Comments
-disqus_short_name: thecodedungeon
-disqus_show_comment_count: false
+disqus:
+  short_name: thecodedungeon
+  show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-42595764-1
